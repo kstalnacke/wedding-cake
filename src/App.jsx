@@ -27,7 +27,7 @@ function WelcomeSection() {
 function PasswordSection() {
   return (
     <section className="password-section">
-      <img src="/star.svg" alt="Decorative image" className="image" />
+      <img src="https://pub-c01c33c2fc314207be617e87ea3e1b0b.r2.dev/star.svg" alt="Decorative image" className="image" />
       <h2>Lösenord</h2>
       <p style={{ marginTop: '0.6rem' }}>
         Ni kommer att behöva ett lösenord för att logga in här efter den 1 augusti 2026. Ange då svaret på följande fråga (bara små bokstäver). På vilken arbetsplats jobbade brudparet när de träffades?
@@ -47,7 +47,7 @@ function HotelsSection() {
         </p>
         <p>
         <br></br>
-          Bokning sker vi mail. Ange <i>"Bröllop Kaleb och Maja + Karin"</i> i ämnesraden. Uppge vilket hotell, antal personer, rumstyp och dina kontaktuppgifter.
+          Bokning sker via mail. Ange <i>"Bröllop Kaleb och Maja + Karin"</i> i ämnesraden. Uppge vilket hotell, antal personer, rumstyp och dina kontaktuppgifter.
         </p>
 
         <div className="email-button-container">
